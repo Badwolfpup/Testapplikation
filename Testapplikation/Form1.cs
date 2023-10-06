@@ -14,7 +14,7 @@ namespace Testapplikation
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Test";
+            label1.Text = "Test av Vicki 2023";
         }
 
 
