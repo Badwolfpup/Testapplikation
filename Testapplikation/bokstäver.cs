@@ -2,6 +2,7 @@
 {
     public class bokstäver
     {
+
         public int antalVokaler(string inmat)
         {
             int x = 0;
