@@ -61,7 +61,7 @@ namespace Testapplikation
             string id = "004";
             string name = "Tablet";
             double price = 299.99;
-            int quantity = 5;
+            int quantity = 6;
 
             // Intentional Error: Incorrect method call
             products.AddProduct(id, name, price, quantity);
